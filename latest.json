@@ -1,0 +1,19 @@
+{
+  "version": "2.22.11",
+  "releasedAt": "2026-10-14T18:40:00Z",
+  "notes": [
+    "Check for, download and install future updates inside STORAGEPro.",
+    "Verify every downloaded update before installation.",
+    "Keep existing customers, estimates, photos and settings in place."
+  ],
+  "windows": {
+    "url": "https://github.com/MRTech-creator/STORAGEPro-App-Updates/releases/download/v2.22.11/STORAGEPro-CRM-2.22.11-Setup-x64.exe",
+    "sha256": "20CAB61A1753177CF0CFDE93AB1CFAF2981AE510179484427600BC0901F05D37",
+    "size": 114996728
+  },
+  "android": {
+    "url": "https://github.com/MRTech-creator/STORAGEPro-App-Updates/releases/download/v2.22.11/STORAGEPro-CRM-2.22.11-signed.apk",
+    "sha256": "B609BCD5761E50EC9A03EA286B94CD55093FEE34D985EF62CFA481550BA32A1D",
+    "size": 7211330
+  }
+}
